@@ -1,3 +1,9 @@
 # Hello World React JS
 
-[![]({https://github.com/gabriell-silva/hello-world-reactjs/blob/main/public/React%20App.webm} "Final Design")
+Final Design
+
+Light
+![image](./public/light.png)
+
+Dark
+![image](./public/dark.png)
